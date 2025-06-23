@@ -36,4 +36,4 @@ Visit: [https://khatrilabs.cloud](https://khatrilabs.cloud)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/khatrilabs.cloud.git
+   git clone https://github.com/hrtkhatriaws02/Project-Portfolio
